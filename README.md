@@ -5,7 +5,14 @@
 
 - Linux System with Bleutooth enabled
 - Python/Python3 with python pip
+- Docker with docker-composed
 
+## Setting up the host:
+
+- apt update && apt dist-upgrade
+- curl -fsSL https://get.docker.com -o get-docker.sh
+- sh get-docker.sh
+- apt install docker-compose
 
 ## Quick Start
 The easiest way to run this probject is to run the image from docker hub using docker-compose
