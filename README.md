@@ -3,7 +3,8 @@
 
 ## Requirements
 
-This is designed to run on a raspberry pi, but it should work fine on any linux system with a BLE adapter.
+- Linux System with Bleutooth enabled
+- Python/Python3 with python pip
 
 
 ## Quick Start
