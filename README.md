@@ -19,7 +19,8 @@ The easiest way to run this probject is to run the image from docker hub using d
 
 `wget https://github.com/DhrSoulslayer/inkbird/blob/dev/docker-compose.yaml`
 
-You will need to modify the environmental variables
+You will need to modify the environmental variables so open docker-compose.yaml with your favorite editor and adjust the settings were needed.
+
 | Variable | Required (Y/N) | Description |
 |----------|----------------|-------------|
 | `INKBIRD_MQTT_HOST` | Y | MQTT server that home assistant uses
