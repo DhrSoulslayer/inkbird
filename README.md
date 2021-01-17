@@ -10,7 +10,7 @@
 ## Quick Start
 The easiest way to run this probject is to run the image from docker hub using docker-compose
 
-wget https://raw.githubusercontent.com/jshridha/inkbird/master/docker-compose.yaml
+wget https://github.com/DhrSoulslayer/inkbird/blob/dev/docker-compose.yaml
 
 You will need to modify the environmental variables
 | Variable | Required (Y/N) | Description |
